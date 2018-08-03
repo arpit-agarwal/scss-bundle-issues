@@ -1,0 +1,17 @@
+{
+  "name": "scss-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "scss-bundle -c sccs-bundle.config.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/material": "^6.4.2"
+  },
+  "devDependencies": {
+    "scss-bundle": "^2.3.2"
+  }
+}
