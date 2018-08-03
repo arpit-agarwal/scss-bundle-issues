@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "scss-bundle -c sccs-bundle.config.json"
+    "start": "scss-bundle -c sccs-bundle.config.json",
+    "start:no-ignore": "scss-bundle -c sccs-bundle.config.json --ignoredImports=[]"
   },
   "author": "",
   "license": "ISC",
