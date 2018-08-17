@@ -1,5 +1,4 @@
-@import "@angular/material/theming.scss";
-
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
 @mixin my-theme($theme) {
   // Extract whichever individual palettes you need from the theme.
   $primary: map-get($theme, primary);

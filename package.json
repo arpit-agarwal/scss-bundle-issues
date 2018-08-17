@@ -13,6 +13,6 @@
     "@angular/material": "^6.4.2"
   },
   "devDependencies": {
-    "scss-bundle": "./scss-bundle-2.3.2.tgz"
+    "scss-bundle": "./scss-bundle-2.3.3.tgz"
   }
 }

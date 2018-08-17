@@ -1,6 +1,4 @@
 {
   "entry": "./_theme.scss",
-  "dest": "./dist/theme.scss",
-  "ignoredImports": ["^(?!\\.).*"],
-  "includePaths": ["../node_modules/", "./node_modules/"]
+  "dest": "output-theme.scss"
 }
